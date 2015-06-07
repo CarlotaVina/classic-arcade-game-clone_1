@@ -1,0 +1,10 @@
+llamada renderEntities
+engine.js:166 engine renderEntities
+engine.js:168 engine llamada a render 
+engine.js:169 0
+engine.js:170 0
+app.js:61 start render
+app.js:65 0
+app.js:66 0
+app.js:67 images/enemy-bug.png
+app.js:69 end render

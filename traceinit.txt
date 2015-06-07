@@ -1,0 +1,24 @@
+creating enemy one completo
+app.js:24 new enemy
+app.js:28 enemy 
+app.js:29 100
+app.js:30 200
+app.js:31 end enemy
+app.js:123 end enemies
+app.js:127 principal final jugador
+engine.js:23 principio engine
+engine.js:38 engine paso main
+engine.js:202 engine antes resources comprobando coordenadas mmmm 
+engine.js:203 100
+engine.js:204 200
+engine.js:208 engine resources mmmm
+engine.js:210 engine llamada a init
+engine.js:79 engine principio init
+engine.js:82 engine antes main
+engine.js:52 engine en main jjjj
+engine.js:54 engine init antes update comprobando coordenadas 
+engine.js:55 100
+engine.js:56 200
+app.js:43 principio de update
+app.js:46 final de update
+engine.js:60 engine antes de render
